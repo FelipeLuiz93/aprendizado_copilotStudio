@@ -1,2 +1,2 @@
-# aprendizado_copilotStudio
+# Aprendizado_copilotStudio
 Breve resumo adquirido do Microsoft Copilot Studio
